@@ -2,3 +2,11 @@
 #profile_picture_<https://images-na.ssl-images-amazon.com/images/I/71-o46CzdiL._SY355_.png>
 #External_Drive K50.BotGCM
 #UploadNoteTest_<https://discord.gg/KhCbVaF>_<DiscordGCM>
+#Upload data Externals: True
+#JoinPend: True
+#JoinRequirments1_<Acsess_To_All_Discord_Servers>
+#JoinRequirments2_<Admin_Switch:"True">
+#JoinRequirments3_<Message_Switch:"True">
+#JoinRequirments4_<Attatchments:"True">
+#JoinRequirments5_<Link_Inserts:"True">
+#JoinRequirments6_<External_Emoji_Use:"True">
