@@ -15,4 +15,4 @@
 #JoinRequirments9_<Ban_User:"True">
 #BotMaster_{{Rank_Switch_Admin:"True"}}
 #AutoCreate_Role:True_((Ugandan-Knuckles))
-JoinMessage_<"Hello-Bruddah-,-Thank-you-for-letting-me-join">
+#JoinMessage_<"Hello-Bruddah-,-Thank-you-for-letting-me-join">
