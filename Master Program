@@ -16,5 +16,20 @@
 #BotMaster_{{Rank_Switch_Admin:"True"}}
 #AutoCreate_Role:True_((Ugandan-Knuckles))
 #JoinMessage_<"Hello-Bruddah-,-Thank-you-for-letting-me-join-!-I-was-made-by-Searamon-!-Just-customize-my-role-to-show-everyone-de-wea">
-#Custom_Welcome_Message1_<"((Insert))"
-#Custom_Welcome_Message2
+#Custom_Welcome_Message1_<"((Insert))">
+#Custom_Welcome_Message2_<"((Insert))">
+#Custom_Welcome_Message3_<"((Insert))>
+#Custom_Leave_Message1_<"((Insert))">
+#Custom_Leave_Message2_<"((Insert))">
+#Custom_Leave_Message3_<"((Insert))">
+#Server_Watch<"[Verify_Email_Here]">
+#Error_Message_Display:True
+#ErrorMessage_<"Sorry-Bruddah-Something-doez-not-no-de-wea">
+#Command_Name_(("Remove!BotMaster((Name))"))
+#ActivateCommand((Remove!BotMaster((Name))") Find_Requested_((user))<TrackLock((User))>
+#Link@29_Codebreak((User))
+#Link@29_Lock(("User"))
+#Command_ Name_(("Give!Botmaster((User))"))
+#ActiveCommand(("Give!Botmaster((Name))")) Find_Requested_((user))<Tracklock((User))>
+#Link@33_Codebreak(("User"))
+#Link@33_Unlock(("User"))
