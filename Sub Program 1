@@ -1,1 +1,16 @@
-#Link_To_((user))_<limit_"999999.10">
+#Link_To_((user))_<limit_<"999999.10">
+#Link_<https://github.com/Searamon/Ugandan-knuckles/blob/master/Master%20Program>
+#Download_Conpatability_<"Mobile">_<"Windows">_<"Tablet">_<"IOS">_<"Apple">_<"Samsung">_<"Motorola">_<"Android">
+#Channel_Introduce_(("Random"))
+#Channel_Welcome_(("Choice"))
+#Command_Name_(("Send!Meme"))
+#ActivateCommand_(("Send!Meme))
+#Link@7_TerminalSearch_<https://www.google.com/>_<https://www.reddit.com/r/DeepFriedMemes/>_<https://www.reddit.com/r/dankmemes/>_<https://www.google.com/imghp?hl=EN>
+#Link@7_TerminalSearch_Images_Webs_<https://www.google.com/>_<https://www.reddit.com/r/DeepFriedMemes/>_<https://www.reddit.com/r/dankmemes/>_<https://www.google.com/imghp?hl=EN>
+#Link@7_Image_Download_Capacity_<10>
+#Link@7_Command_Message_<"I-have-seen-some-image-(-s-)-that-may-show-de-wea">
+#Bind_TypeImages_<"Porn">_<"Pornoghraphy">_<"Hentai">_<"rule34">_<"Sex">
+#Link@12_NeverShow:True
+#SleepCommand_(("Rest!Bruddah"))
+#AwakeCommand_(("RiseUp!Bruddah))
+#ServerWatch_((https://discord.gg/))
