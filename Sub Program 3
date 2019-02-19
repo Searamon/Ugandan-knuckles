@@ -1,0 +1,12 @@
+#Beta_Command_<"Join!VoiceChat>
+#Link@1_track_Voice_Channel:"True"
+#Link@2_Track_UserVia((voicechatname))
+#link@2_Join_Voice_Channel:"True"
+#Beta_Command_<"Play!((insertlink))">
+#Link@5_Search_Web((ChromeGoogle))
+#Link@5_AudioDisplay:"True"
+#ExternalWatch:"True"
+#InternalWatch:"True"
+#Beta_Command_<"Watch!((user))">
+#Link@10_Watch((user)):"True"
+#Link@10_Email_"((insertmasteremail))"
