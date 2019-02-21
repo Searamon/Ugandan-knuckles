@@ -10,3 +10,11 @@
 #Beta_Command_<"Watch!((user))">
 #Link@10_Watch((user)):"True"
 #Link@10_Email_"((insertmasteremail))"
+#Command_Name_(("Send!DeepFriedMemes"))
+#ActivateCommand(("Send!DeepFriedMemes")) Search_Engine_<"ChromeGooge">_<"Website_Search_((https://www.reddit.com/r/DeepFriedMemes/))">
+#Link@14_Generate_Random_((Image_Post_<"Last5Days">))
+#Watch_Images_<"LastWeek1">
+#Watch_Nickname_Changes_<"24">
+#Watch_AuditLog_<"LastWeek!">
+#Watch_Roles_(("All"))_<"Watch_Altered_Changes">
+#Link@19_Link@18_Link@17_Link@16_Send_Email_(("insertemailhere"))
