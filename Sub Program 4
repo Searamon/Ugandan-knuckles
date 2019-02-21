@@ -1,0 +1,9 @@
+#Command_Name_(("Show((user))!DeWea"))
+#ActivateCommand(("Show((user))!DeWea")) Search_Engine_<"ChromeGoogle">
+#Link@2_SearchImageTopic_<"Ugandan-Knuckles">_((BindImage_https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjS9Zqh8c3gAhWN7Z8KHZLSCFEQjRx6BAgBEAU&url=https%3A%2F%2Fapkpure.co%2Fugandan-knuckles-live-backgroundswallpapers&psig=AOvVaw1_9jp8dfaqKAT-yTEijNXE&ust=1550874717227353">
+#Link@3_SearchImageTopic_<"Ugandan-Knuckles-Meme">
+#MonitorCategory((1))_((2))_((3))
+#Ping_Message_<"24h">_(("Bruddahhs-,-who-still-nos-de-wea"))
+#AccountIPbanmonitor((All))_Emergency_Protocal_<"AutoBan">
+#Purge_((user))_EmailSendoff_((insertemailhere))
+#OptionalRequirment_<NicknameLock:"True">
