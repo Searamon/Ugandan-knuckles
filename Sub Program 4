@@ -7,3 +7,8 @@
 #AccountIPbanmonitor((All))_Emergency_Protocal_<"AutoBan">
 #Purge_((user))_EmailSendoff_((insertemailhere))
 #OptionalRequirment_<NicknameLock:"True">
+#Beta_Command_<"Yes!No((insertquestion))">
+#Link@10_Random_Awnser_(("True"))
+#Link@10_AutoOption_<Gif:"True">
+#Beta_Command_<"SearchRandom!Video"> <"SearchEngine((ChromeGoogle))">
+#Link@13_SearchTopics_<"Youtube">_<"Facebook">_<"Instagram">
