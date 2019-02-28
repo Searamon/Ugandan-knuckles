@@ -12,3 +12,9 @@
 #Link@10_AutoOption_<Gif:"True">
 #Beta_Command_<"SearchRandom!Video"> <"SearchEngine((ChromeGoogle))">
 #Link@13_SearchTopics_<"Youtube">_<"Facebook">_<"Instagram">
+#Download_LinkSearch_<"www.searchandsend.otg/discord/">
+#LinkDownload_(("True"))
+#LinkMod_(("True"))
+#Link_Delete_(("True"))
+#Activate_LinkWatch_(("True"))
+HalosIde_<"453">
