@@ -4,3 +4,14 @@
 #ActivateAutoBan_<"True"> <"Reason_Listment"> <"Reason_Listment"> <"Reason_Listment">
 #OverLink_<"True">
 #AutoGenerateQuestions_<"True"> <"Question_Source_((https://www.mantelligence.com/random-questions-to-ask/#would-you-rather))">
+#Command_Name_(("Generate!DDOI")) 
+#ActivateCommand(("Generate!DDOi")) Search_Engine_ChromeGoogle_<"True">
+#Link@8_((youtube))_Search_<"True"> ((youtube))_Search_<"https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw">\
+#Link@9_VideoGenerationLimit_<"1">
+#TwitchStreamAnnouncment_<"True">
+#TwitchStream_(("https://www.twitch.tv/iamsearamon"))_<"Optional">
+#LinkDiscord(("https://discord.gg/Mhvqft3"))link_<"True">
+#Uplink_<"https://github.com/Searamon/Ugandan-knuckles/blob/master/Master%20Program">_Github_SubPRogram_(("Past"))_(("Future"))
+#Link@14_AutoSendEmail_(("insertemail"))
+#Link15_Mark_Option_(("<img src="https://bellacaledonia.files.wordpress.com/2012/05/yes.jpg" alt="Image result for yes"/>"))=23_(("<img src="https://bellanyc.com/wp-content/uploads/2013/03/no.jpg" alt="Image result for no"/>"))=25
+#Link@16_Detection_<"23">_Change_(("Optional"))_<"True">_I
