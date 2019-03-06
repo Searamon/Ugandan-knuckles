@@ -30,6 +30,6 @@
 #Link@29_Codebreak((User))
 #Link@29_Lock(("User"))
 #Command_Name_(("Give!Botmaster((User))"))
-#ActiveCommand(("Give!Botmaster((Name))")) Find_Requested_((user))<Tracklock((User))>
+#ActivateCommand(("Give!Botmaster((Name))")) Find_Requested_((user))<Tracklock((User))>
 #Link@33_Codebreak(("User"))
 #Link@33_Unlock(("User"))
