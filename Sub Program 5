@@ -13,5 +13,8 @@
 #LinkDiscord(("https://discord.gg/Mhvqft3"))link_<"True">
 #Uplink_<"https://github.com/Searamon/Ugandan-knuckles/blob/master/Master%20Program">_Github_SubPRogram_(("Past"))_(("Future"))
 #Link@14_AutoSendEmail_(("insertemail"))
+#EmailText_Add((Optional))_ChangeDetectionEnabled_All_UgandanKnucklesBot<"There-Are-Some-options-you-may-choose-to-change-.-In-this-email-will-list-all-those-options">
+Link@16_Skip2characters_<"EmailText((From-Searamon">
 #Link15_Mark_Option_(("<img src="https://bellacaledonia.files.wordpress.com/2012/05/yes.jpg" alt="Image result for yes"/>"))=23_(("<img src="https://bellanyc.com/wp-content/uploads/2013/03/no.jpg" alt="Image result for no"/>"))=25
-#Link@16_Detection_<"23">_Change_(("Optional"))_<"True">_I
+#Link@16_Detection_<"23">_Change_(("Optional"))_<"True">
+#Link@17_Detection_<"25">_Change_(("Optional"))_<"False">
