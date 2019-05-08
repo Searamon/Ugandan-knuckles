@@ -1,6 +1,6 @@
-#HydroMod:"True"
+#HydroMod:True
 #Moderation_Record_Unit_(([insert]))
-#BetaAccess:"True"
+#BetaAccess:True
 #Beta_Command_<Save!Server>
 #Link@4_BetaRequirment_Administration:"True"
 #Link@4_SaveChannelLimit_[980.10]
